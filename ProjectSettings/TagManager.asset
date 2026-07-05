@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 3
   tags:
   - Jugador
+  - Enemigo
+  - Meta
   layers:
   - Default
   - TransparentFX
